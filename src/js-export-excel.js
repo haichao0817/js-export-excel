@@ -6,7 +6,7 @@ require("script-loader!blob.js/Blob");
  * Created by kin on 2017/5/18.
  *
  * josn导出excel
- * mail：cuikangjie_90h@126.com
+ * mail：cuikangjie_90h@126.com111111111111111111111111
  */
 const changeData = function (data, filter) {
   let sj = data,
